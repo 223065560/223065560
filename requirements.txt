@@ -1,0 +1,8 @@
+rasterio
+numpy
+matplotlib
+matplotlib-scalebar
+pandas
+Pillow
+scikit-learn
+pyinstaller
