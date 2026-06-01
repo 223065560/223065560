@@ -11,9 +11,9 @@ GeoSight is a desktop application that automates land cover classification and c
 
 ## ⬇️ Download
 
-### [👉 Click here to download LandCoverTool.exe](https://drive.google.com/file/d/1iQE5W1Tju2-D18wFwSnZgji8jeL1yM-O/view?usp=sharing)
+### [👉 Click here to download GeoSight (exe + source code + report)](https://drive.google.com/file/d/1iQE5W1Tju2-D18wFwSnZgji8jeL1yM-O/view?usp=sharing)
 
-No Python installation required — just download and run.
+No Python installation required — just download, unzip and run LandCoverTool.exe.
 
 ---
 
